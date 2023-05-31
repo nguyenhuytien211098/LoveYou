@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Xin Chào Tiểu Hổ",
-  text2: "Anh Cũng Không Biết Nói Gì !! \n Bắt Đầu Thôi Em Nhỉ ?",
+  text2: "Anh Cũng Không Biết Nói Gì !!\n Bắt Đầu Thôi Em Nhỉ ?",
   text3: "Em Là Người Yêu Của Anh Rồi Phải không ? ",
   text4: "Em Không Được Thoát, Nếu Em Thoát Làm Cún Nhé ^_^",
   text5: "Khônggggg!!! Đừng Mơ Nữa",
